@@ -83,7 +83,6 @@ Litepicker.add("ranges", {
                                 endEnd,
                                 itemKey
                             );
-                            console.log(itemKey);
                             picker.hide();
                         } else {
                             picker.datePicked = [startDate, endEnd];
